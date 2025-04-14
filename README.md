@@ -16,13 +16,12 @@ A customized Stream Deck profile featuring a clean, modern numpad layout based o
 This profile includes the following Material Design numpad icons:
 
 - Numbers 0-9
-- Mathematical operators (+, -, ×, ÷)
-- Enter/Return key
+- Mathematical operators (+, -)
 - Decimal point
-- Backspace/Delete
-- Clear/Reset
 
 All icons feature consistent styling with Material Design's clean aesthetic for a professional appearance on your Stream Deck.
+
+Green icons are used for profile navigation — including a Profile Switch at the top and Next Page button at the bottom — helping you move through Stream Deck profiles effortlessly without breaking the visual flow.
 
 ## Credits
 
